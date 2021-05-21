@@ -1,0 +1,28 @@
+8 0
+15 15
+Fox 2 5 15 0
+Human 3 5 26 0
+Antelope 8 9 19 0
+Antelope 9 11 13 0
+Turtle 13 4 30 0
+Turtle 7 8 26 0
+Guarana 1 2 10 0
+Belladonna 4 12 9 0
+Guarana 9 7 9 0
+Dandelion 5 9 9 0
+Hogweed 1 8 8 0
+Hogweed 1 7 6 0
+Belladonna 4 10 1 1
+Dandelion 5 7 1 1
+Dandelion 6 10 1 1
+Guarana 2 2 1 0
+Dandelion 7 9 1 0
+Dandelion 6 8 1 0
+Hogweed 1 9 2 0
+Guarana 1 1 2 0
+Hogweed 2 8 3 0
+Dandelion 5 10 3 0
+Dandelion 6 9 3 0
+Dandelion 5 8 4 0
+Guarana 9 6 4 0
+Belladonna 4 11 4 0
